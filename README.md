@@ -27,3 +27,13 @@ npm run lint
 ![image](https://github.com/hanshanfeihe/nide_mall/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/%E5%95%86%E5%93%81%E5%88%86%E7%B1%BB.PNG)
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+#### 技术栈
+- vue脚手架
+    - vuex
+    - vue-router
+- vant组件库
+- axios
+- 后台
+    - node.js
+    - express,sequelize
+    - mysql
